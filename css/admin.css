@@ -1,0 +1,46 @@
+/**
+ * custom style to extend the with of the media edit screen sidebar
+ *
+ * @package dna Media Sidebar Extender
+ */
+/*@charset "utf-8";*/
+
+/**
+ * make the inputs full width
+ * and align the label text to the left
+ */
+.media-sidebar .attachment-details label.setting span {
+	text-align: left;
+}
+.media-sidebar .attachment-details label.setting input,
+.media-sidebar .attachment-details label.setting textarea {
+	float: none;
+	width: 98%;
+}
+
+/**
+ * increase the with of the media sidebar
+ */
+
+@media screen and (min-width: 980px) {
+
+	.media-sidebar {
+		width: 317px;
+	}
+	.attachments-browser .attachments,
+	.attachments-browser .media-toolbar {
+		right: 350px;
+	}
+}
+
+@media screen and ( min-width: 1300px ) {
+
+	.media-sidebar {
+		width: 427px;
+	}
+	.attachments-browser .attachments,
+	.attachments-browser .media-toolbar {
+		right: 460px;
+	}
+}
+
