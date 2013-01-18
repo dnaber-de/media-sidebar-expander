@@ -4,7 +4,7 @@
  * Plugin URI:  http://dnaber.de/
  * Description: This Plugin imporves the admin css to give the media sidebar more space
  * Author:      David Naber
- * Version:     2013.01.14
+ * Version:     2013.01.18
  * Author URI:  http://dnaber.de/
  * License:     MIT
  * License URI: http://opensource.org/licenses/MIT
@@ -42,7 +42,7 @@ class Media_Sidebar_Expander {
 	 *
 	 * @const string
 	 */
-	const VERSION = '2013.01.14';
+	const VERSION = '2013.01.18';
 
 	/**
 	 * absolute path to this directory
