@@ -111,7 +111,7 @@ class Media_Sidebar_Expander {
 
 		wp_register_style(
 			'mse_admin_style',
-			$this->url . '/css/admin.css',
+			$this->url . '/css/media-sidebar-expander.css',
 			array(),
 			self::VERSION
 		);
