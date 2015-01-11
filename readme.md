@@ -1,6 +1,8 @@
-# dna Media Sidebar Expander
+# Media Sidebar Expander
 
-A WordPress plugin to give the form elements for media description more space in the new gallery edit screen.
+A WordPress plugin to give the form elements for media description more space in the new gallery edit screen. Tested up to WordPress **4.1**
+
+
 
 ## Screenshots
 ### Without Media Sidebar Expander
