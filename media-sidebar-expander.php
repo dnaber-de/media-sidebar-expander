@@ -42,7 +42,7 @@ class Media_Sidebar_Expander {
 	 *
 	 * @const string
 	 */
-	const VERSION = '2013.01.18';
+	const VERSION = '2015.01.11';
 
 	/**
 	 * absolute path to this directory
