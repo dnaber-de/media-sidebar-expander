@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: dna Media Sidebar Expander
- * Plugin URI:  http://dnaber.de/
+ * Plugin URI:  https://github.com/dnaber-de/media-sidebar-expander
  * Description: This Plugin imporves the admin css to give the media sidebar more space
  * Author:      David Naber
- * Version:     2013.01.18
+ * Version:     2015.01.11
  * Author URI:  http://dnaber.de/
  * License:     MIT
  * License URI: http://opensource.org/licenses/MIT
